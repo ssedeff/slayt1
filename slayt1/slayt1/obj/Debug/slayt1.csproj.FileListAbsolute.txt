@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\bin\Debug\slayt1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\bin\Debug\slayt1.exe
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\bin\Debug\slayt1.pdb
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.exe
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\slayt1\slayt1\obj\Debug\slayt1.pdb
